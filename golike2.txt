@@ -12,7 +12,7 @@ import sys
 banner = """
 \033[1;97mTool By: \033[1;32m Phạm Văn Tùng         \033[1;97mPhiên Bản: \033[1;32m3.0     
 \033[97m════════════════════════════════════════════════  
-     © Tool Auto Golike Tiktok  By phamvantung
+
         Zalo: 0988196974
         Telegram: @toolgolike0
          admin cod: @Dark121918
